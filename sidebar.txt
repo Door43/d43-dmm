@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dmm:home|Door43 (dmm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dmm|d43-dmm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dmm/archive/master.zip|d43-dmm.zip]]
+
+**Recent Changes**
+{{changes>ns = dmm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dmm|Ethnologue data]]
+
